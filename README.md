@@ -9,11 +9,11 @@ Michael Moloney - Additional functions(ability to select from multiple backgroun
 Create a shuffle puzzle game with select additional features.
 
 #### Description:
-A frog on a bridge that, when clicked on, hops across to the other side. The game is inspired by oldschool atari pixel graphics. The art assets were created in Pixie Engine. No Javascript was allowed in this project. 
+A puzzle that splits an image into 16 squares with the 16th square becoming blank. The squares are then shuffled, and the user has to unscramble the squares by sliding them around the single blank space.
 
 #### Functionality:
-* Sprite animation
-* Frog moves from mouse interatction
-* Frog winds up jump when mouse is hovered over frog
-* Frog can be reset by clicking on the title screen
-* Frog's movement is achieved through positioned links to other pages
+* Image splits into equal squares
+* User can choose between multiple background images
+* Squares can be shuffled with the press of the shuffle button
+* tiles that are able to be moved become highlighted when the mouse hovers over them
+* multiple tiles can be shifted at once
